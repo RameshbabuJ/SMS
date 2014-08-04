@@ -10,6 +10,7 @@ namespace SMSApplication.Controllers
     {
         public ActionResult Index()
         {//Change 1 in Branch1
+        //Change 2 in Branch2
             return View();
         }
 
